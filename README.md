@@ -11,7 +11,7 @@
   ### Ouvrir Anaconda toolbox 
     - Lancer conda env create --file env_conda.yml (un nom d'environnement projet_pdf_json dans Anaconda) 
     - Ouvrir VScode 
-    - Se positionner dans le répertoire de travail avec un terminal 
+    - Se positionner dans le répertoire de travail avec un terminal (c:\temp_travail)
     - Lancer python main_json.py
 
 ## Des fichiers json seront générés dans le répertoire c:\tem_travail\docs
