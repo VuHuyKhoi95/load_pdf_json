@@ -4,8 +4,8 @@
 
 ## Créer un répertoire de travail c:\temp_travail 
 ### Créer des sous-répertoires : 
-    - input : dépôt des fichiers PDF à traiter 
-    - docs : dépôt des fichiers JSON générés
+    - input : dépôt des fichiers PDF à traiter (c:\temp_travail\input)
+    - docs : dépôt des fichiers JSON générés   (c:\temp_travail\docs)
 
 ## Ouvrir Anaconda 
   ### Ouvrir Anaconda toolbox 
